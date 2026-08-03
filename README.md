@@ -1,3 +1,3 @@
 ## Hola 👋
-![Tus estadísticas](https://vercel.app)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
 
