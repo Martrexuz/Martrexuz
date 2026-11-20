@@ -17,3 +17,4 @@
 
 # Github Analytics
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Martrexuz&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=Martrexuz&include_all_commits=true&theme=shadow_green)
